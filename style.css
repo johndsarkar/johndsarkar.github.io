@@ -1,0 +1,29 @@
+*{margin:0;padding:0;outline:0;}
+body{font-family: 'Crimson Text', serif;font-size:14px;color:#485460;}
+.clear{overflow:hidden;}
+.headsection{background:url('image/food.png')repeat fixed;padding:2%;}
+.h1{margin-top:2rem;font-family:verdana;text-shadow:9px 7px 12px #485460;font-weight:bold;}
+.large{font-size:3rem;color:#B53471;}
+.medium{font-size:2rem;color:#ffffff;}
+.h5{font-weight:bold;}
+.navsection{background:url('image/food.png')repeat fixed;}
+.foodmenu{background:#EEDBB0;padding:2%;}
+.foodmenu h3{color:#AC8458;font-family:'Copse', serif;}
+.foodsection{background:url('image/food.png')repeat fixed;padding:2%;}
+.bakerysection{background:url('image/food.png')repeat fixed;padding:2%;}
+.testimonial{background:#EEDBB0;padding:2%;}
+.testimonial h3{color:#AC8458;font-family:'Copse', serif;}
+.clientsection{background:url('image/food.png')repeat fixed;padding:2%;}
+.h6{padding-top:4%;color:#ffffff;font-size:18px;font-family:'Cookie', cursive;}
+.findout{background:#EEDBB0;padding:2%;}
+.findsection{background:url('image/food.png')repeat fixed;padding:2%;}
+.findsection h4{padding-bottom:3%;color:#AC8458;}
+.findout h3{color:#AC8458;font-family:'Copse', serif;}
+.contactus{background:#EEDBB0;padding:2%;}
+.contactus h3{color:#AC8458;font-family:'Copse', serif;}
+.footsection{background:#EEDBB0;padding:2%;}
+.footsection h4{color:#AC8458;padding-bottom:3%;}
+.footsection p{color:#AC8458;}
+.social a{font-size:4rem;}
+.social a{color:#AC8458;}
+.social a:hover{color:#ffffff;}
